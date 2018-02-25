@@ -1,2 +1,2 @@
 # PyJobFeed
-Python app to fetch latest data from Job portal
+Python app to fetch latest data from Job portal like
